@@ -62,4 +62,4 @@ categories: 'HTML&CSS'
 [ logo, header, footer, navigation, menu, button, input, popup 등 보이는 모든 것들이 구조에 해당함 ]
 </br>
 구조는 body 의 범위 안에서만 생성하도록 한다.
-자바스크립트 코드를 포함할 수 있고 head 와 body 태그 사이에는 아무것도 들어갈 수 없다.
+자바스크립트 코드를 포함할 수 있고 head 와 body 태그 사이에는 아무것도 들어갈 수 없다..
