@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://jhp4986.github.io/sitemap-index.xml
+Host: https://jhp4986.github.io
